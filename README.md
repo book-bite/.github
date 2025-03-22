@@ -1,3 +1,3 @@
 # .github
 
-for KIM org gh home page
+for Savry gh home page
