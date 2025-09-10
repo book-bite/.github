@@ -1,3 +1,3 @@
 # .github
 
-for Savry gh home page
+for BookBite gh home page
